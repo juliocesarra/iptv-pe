@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2",Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-id="America.pe" tvg-chno="4",America
+http://191.97.55.241:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5",Panamericana
+http://191.97.55.241:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7",TVPeru
+https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-chno="9",ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
