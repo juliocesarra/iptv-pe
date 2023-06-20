@@ -3,12 +3,12 @@
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3",Willax
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrDWkXTbyc449Yjq2Q9TI5cOGEwTop2m5dImBmZOD2I_)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3",Willax TV
+http://179.43.82.250:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="America.pe" tvg-chno="4",America
 http://179.43.82.250:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5",Panamericana
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFkvrt1y_kcpqt8xhxSiubgk_4_w_remDU-4FXmSMKyhb)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7",TVPeru
@@ -33,8 +33,8 @@ http://179.43.82.250:8000/play/a08v/index.m3u8
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="BestSports.pe" tvg-chno="17",BestCable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
-#EXTINF:-1 tvg-id="MegaTV.pe" tvg-chno="18",MegaTV Jaen
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-chno="18",Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade.wl" tvg-chno="19",Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-chno="20",AXN
@@ -49,9 +49,11 @@ http://179.43.82.250:8000/play/a01x/index.m3u8
 http://179.43.82.250:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-chno="25",Telemundo
 http://179.43.82.250:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="26",RCN Novelas
+#EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-chno="26",Canal Estrellas
+http://186.31.37.98:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="27",RCN Novelas
 http://179.43.82.250:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="RCN+.lat" tvg-chno="27",RCN +
+#EXTINF:-1 tvg-id="RCN+.lat" tvg-chno="28",RCN +
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30",Discovery Kids
 http://179.43.82.250:8000/play/a00o/index.m3u8
@@ -161,11 +163,11 @@ http://179.43.82.250:8000/play/a068/index.m3u8
 http://179.43.82.250:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="SinLimites.lat" tvg-chno="102",Sin Limites
 http://179.43.82.250:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="Telesur.lat" tvg-chno="103",Telesur
-http://179.43.82.250:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="104",Zona Latina
+#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="103",Zona Latina
 http://179.43.82.250:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.lat" tvg-chno="105",Enlace
 http://179.43.82.250:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="RedBull.world" tvg-chno="110",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.lat" tvg-chno="120",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
