@@ -8,7 +8,7 @@ http://179.43.82.250:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="America.pe" tvg-chno="4",America
 http://179.43.82.250:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5",Panamericana
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
+http://179.43.82.250:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7",TVPeru
