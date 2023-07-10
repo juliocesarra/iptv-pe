@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3023252,RESOLUTION=852x480,CODECS="avc1.64001F,mp4a.40.2",VIDEO="chunked",FRAME-RATE=10.000
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ListasM3U.cl" tvg-chno="1",+ Listas en M3U.CL
+#EXTINF:-1 tvg-id="Test.pe" tvg-chno="1",+ Canal Test
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
@@ -16,7 +16,7 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-chno="8",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-chno="9",ATV
-https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-chno="10",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="TVPeNoticias.pe" tvg-chno="11",TVPe Noticias
@@ -24,10 +24,10 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 #EXTINF:-1 tvg-id="TVPeInternacional.pe" tvg-chno="12",TVPe Internacional
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-chno="13",ATV +
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-chno="14",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Global.pe" tvg-chno="15",GLOBAL
+#EXTINF:-1 tvg-id="Global.pe" tvg-chno="15",Global
 http://179.43.82.250:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-chno="16",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
@@ -51,10 +51,10 @@ http://179.43.82.250:8000/play/a00m/index.m3u8
 http://179.43.82.250:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-chno="26",Canal Estrellas
 http://186.31.37.98:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="27",RCN Novelas
+#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-chno="27",TNT Novelas
+http://179.43.82.250:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="28",RCN Novelas
 http://179.43.82.250:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="RCN+.lat" tvg-chno="28",RCN +
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30",Discovery Kids
 http://179.43.82.250:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-chno="31",Cartoon Network
@@ -99,17 +99,15 @@ http://179.43.82.250:8000/play/a01o/index.m3u8
 http://179.43.82.250:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="TyC.lat" tvg-chno="59",TyC
 http://179.43.82.250:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="60",History Channel
+#EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65",History Channel
 http://179.43.82.250:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="61",Nat Geo
+#EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="66",Nat Geo
 http://179.43.82.250:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-chno="62",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-chno="67",Animal Planet
 http://179.43.82.250:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-chno="63",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-chno="68",Discovery Channel
 http://186.31.37.98:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.lat" tvg-chno="64",Discovery Turbo
-http://179.43.82.250:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-chno="65",Investigation Discovery
+#EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-chno="69",Investigation Discovery
 http://179.43.82.250:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-chno="70",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -135,38 +133,32 @@ http://179.43.82.250:8000/play/a02b/index.m3u8
 http://179.43.82.250:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="SyFy.lat" tvg-chno="84",SyFy
 http://179.43.82.250:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="TBS.lat" tvg-chno="85",TBS
-http://179.43.82.250:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="TCM.lat" tvg-chno="86",TCM
+#EXTINF:-1 tvg-id="TCM.lat" tvg-chno="85",TCM
 http://179.43.82.250:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="HBO.lat" tvg-chno="87",HBO
+#EXTINF:-1 tvg-id="HBO.lat" tvg-chno="86",HBO
 http://179.43.82.250:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.lat" tvg-chno="88",HBO 2
+#EXTINF:-1 tvg-id="HBO2.lat" tvg-chno="87",HBO 2
 http://179.43.82.250:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.lat" tvg-chno="89",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.lat" tvg-chno="88",HBO Family
 http://179.43.82.250:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-chno="90",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-chno="89",HBO Plus
 http://179.43.82.250:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-chno="91",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-chno="90",HBO Xtreme
 http://179.43.82.250:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="I-Sat.lat" tvg-chno="92",I-Sat
+#EXTINF:-1 tvg-id="I-Sat.lat" tvg-chno="91",I-Sat
 http://179.43.82.250:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Universal.lat" tvg-chno="93",Universal
+#EXTINF:-1 tvg-id="Universal.lat" tvg-chno="92",Universal
 http://179.43.82.250:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCinema.lat" tvg-chno="94",Universal Cinema
+#EXTINF:-1 tvg-id="UniversalCinema.lat" tvg-chno="93",Universal Cinema
 http://179.43.82.250:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="UniversalComedy.lat" tvg-chno="95",Universal Comedy
+#EXTINF:-1 tvg-id="UniversalComedy.lat" tvg-chno="94",Universal Comedy
 http://179.43.82.250:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiere.lat" tvg-chno="96",Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremiere.lat" tvg-chno="95",Universal Premiere
 http://179.43.82.250:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment.lat" tvg-chno="101",E Entertainment
+#EXTINF:-1 tvg-id="Entertainment.lat" tvg-chno="101",E! Entertainment
 http://179.43.82.250:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="SinLimites.lat" tvg-chno="102",Sin Limites
-http://179.43.82.250:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="103",Zona Latina
+#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="102",Zona Latina
 http://179.43.82.250:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Enlace.lat" tvg-chno="105",Enlace
-http://179.43.82.250:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="RedBull.world" tvg-chno="110",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.lat" tvg-chno="120",Platzi TV
