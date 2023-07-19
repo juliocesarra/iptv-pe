@@ -175,13 +175,13 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34512
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34513
 #EXTINF:-1 tvg-id="Test.pe" tvg-name="Canal Test" tvg-logo="" group-title="",+ Canal Test
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoz9DaPSeHj9klACiRpSjoIwid08unBLZ9DziATLPsDD7HdH7BgJog4_S9fpTZjxU2oBc&usqp=CAU" group-title="Peru",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://canales.online/img/logo_canal/willax.png" group-title="Peru",Willax TV
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
 http://tv.nousiptv.com:8080/8820/008820/1105664
-#EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Peru",America
+#EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304290
-#EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/800px-Logo_panamericana_tv_2020_2.png" group-title="Peru",Panamericana
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFh9pXasZIwq-7Fm5kpn8GCwISQwneI0fTnid0I6Gbg_f)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
@@ -189,7 +189,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="PE: Cultura 24 TV" tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/logo.png" group-title="Peru",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://canales.online/img/logo_canal/atv.png" group-title="Peru",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Peru",ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png" group-title="Peru",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -201,7 +201,7 @@ https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/ind
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="PE: ATV Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Peru",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://canales.online/img/Global_TV_2019-e1632250190184.png" group-title="Peru",Global TV
+#EXTINF:-1 tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://179.43.82.250:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
@@ -209,23 +209,23 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.svg" group-title="Entretenimiento",AXN
 http://tv.nousiptv.com:8080/8820/008820/1155784
-#EXTINF:-1 tvg-id="TNTSeries.lat" tvg-name="LA: TNT Series" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.lat" tvg-name="LA: TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.svg" group-title="Entretenimiento",TNT Series
 http://tv.nousiptv.com:8080/8820/008820/1156004
-#EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" vg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.svg" group-title="Entretenimiento",A&E
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34946
-#EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="Entretenimiento",H&H
+#EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_H&H_2022.webp" group-title="Entretenimiento",H&H
 http://tv.nousiptv.com:8080/8820/008820/1155816
-#EXTINF:-1 tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.svg" group-title="Entretenimiento",Lifetime
 http://tv.nousiptv.com:8080/8820/008820/1155873
-#EXTINF:-1 tvg-id="Telemundo.lat" tvg-name="LA: Telemundo" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="Novelas",Telemundo
+#EXTINF:-1 tvg-id="Telemundo.lat" tvg-name="LA: Telemundo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.svg" group-title="Novelas",Telemundo
 http://tv.nousiptv.com:8080/8820/008820/43189
-#EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="" group-title="Novelas",Canal Estrellas
+#EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png" group-title="Novelas",Canal Estrellas
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/0302decc-a0d9-4ab1-9629-2698ff9a5996.m3u
-#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-name="LA: TNT Novelas" tvg-logo="" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.svg" group-title="Novelas",TNT Novelas
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312798
-#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-name="LA: RCN Novelas" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="Novelas",RCN Novelas
+#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-name="LA: RCN Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CanalRCNNovelas2019.webp" group-title="Novelas",RCN Novelas
 http://tv.nousiptv.com:8080/8820/008820/1155809
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="LA: Discovery Kids" tvg-logo="" group-title="Infantil",Discovery Kids
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/4dacb10a-6ace-45ce-b477-002665daee65.m3u
