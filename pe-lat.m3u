@@ -204,7 +204,7 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="PE: ATV Sur" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_Sur_2018_2.png" group-title="Peru",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
-http://179.43.82.250:8000/play/a08v/index.m3u8
+https://juliocesarra.github.io/iptv-pe/canales/pe-globaltv.m3u8
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="BestSports.pe" tvg-name="PE: BestCable Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png" group-title="Peru",BestCable Sports
