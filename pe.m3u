@@ -81,7 +81,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50",Movistar Deportes
 http://179.43.82.250:8000/play/a08o/index.m3u8
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51",GOLPERU
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51",GolPeru
 http://179.43.82.250:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="GolTV.lat" tvg-chno="52",Gol TV
 http://179.43.82.250:8000/play/a08f/index.m3u8
@@ -113,6 +113,8 @@ http://179.43.82.250:8000/play/a01s/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-chno="71",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="Paramount.lat" tvg-chno="74",Paramount Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34982
 #EXTINF:-1 tvg-id="StarChannel.lat" tvg-chno="75",Star Channel
 http://179.43.82.250:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="TNT.lat" tvg-chno="76",TNT
