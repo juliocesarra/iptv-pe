@@ -174,7 +174,7 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34512
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="PPV",PPV: Cinema 37
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34513
 #EXTINF:-1 tvg-id="Test.pe" tvg-name="Canal Test" tvg-logo="" group-title="",+ Canal Test
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+https://clarovideo.canales.online/mpdk.html?get=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvR0xPQkFMSEQvZGFzaF9may9pbmRleC5tcGQ&key=MGUxOWFkODAxY2VlZDM4ZDM0YjI2NWMxZmJkYjYxZDQ&key2=OTZlZmVmYWMzNTlhYTExYzM1MzczNjRmNDkyMWJmOWE
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
@@ -182,7 +182,7 @@ http://tv.nousiptv.com:8080/8820/008820/1105664
 #EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304290
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFh9pXasZIwq-7Fm5kpn8GCwISQwneI0fTnid0I6Gbg_f)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnh74.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
@@ -193,6 +193,8 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png" group-title="Peru",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="CanalIpe.pe" tvg-name="PE: Canal Ipe" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Canal_IPe_2022.png" group-title="Peru",Canal Ipe
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 #EXTINF:-1 tvg-id="TVPeNoticias.pe" tvg-name="PE: TVPe Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Peru",TVPe Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
 #EXTINF:-1 tvg-id="TVPeInternacional.pe" tvg-name="PE: TVPe Internacional" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="Peru",TVPe Internacional
@@ -202,13 +204,15 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="PE: ATV Sur" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_Sur_2018_2.png" group-title="Peru",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
-http://179.43.82.250:8000/play/a08v/index.m3u8
+https://cadenad.com/cstream.php?id=1271
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="BestSports.pe" tvg-name="PE: BestCable Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png" group-title="Peru",BestCable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/antares-tv-peru.webp" group-title="Peru",Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.svg" group-title="Entretenimiento",AXN
 http://tv.nousiptv.com:8080/8820/008820/1155784
 #EXTINF:-1 tvg-id="TNTSeries.lat" tvg-name="LA: TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.svg" group-title="Entretenimiento",TNT Series
@@ -251,6 +255,8 @@ https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="DW.lat" tvg-name="INT: DW Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Deutsche_W_2012.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="France24.lat" tvg-name="INT: France24 Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/France_24_2013.svg" group-title="Noticias",France24 Español
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.svg" group-title="Deportes",Movistar Deportes
 http://tv.nousiptv.com:8080/8820/008820/1092642
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
@@ -270,19 +276,19 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34660
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34663
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34666
+http://200.24.204.242:6020/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.svg" group-title="Deportes",ESPN 4
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312851
+http://190.83.60.34:1414/play/a02w
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/123874
 #EXTINF:-1 tvg-id="ESPNExtra.lat" tvg-name="LA: ESPN Extra" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Extra_2018.webp" group-title="Deportes",ESPN Extra
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312846
-#EXTINF:-1 tvg-id="FoxSports.lat" tvg-name="LA: Fox Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.svg" group-title="Deportes",Fox Sports
+http://190.83.60.34:1414/play/a03n
+#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_Logo.svg" group-title="Deportes",Fox Sports 2
+http://190.83.60.34:1414/play/a02x
+#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FOXSports3LA.webp" group-title="Deportes",Fox Sports 3
+http://190.83.60.34:1414/play/a027
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="AR: Fox Sports Argentina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.svg" group-title="Deportes",Fox Sports Argentina
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34639
-#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34642
-#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34645
 #EXTINF:-1 tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34683
 #EXTINF:-1 tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports

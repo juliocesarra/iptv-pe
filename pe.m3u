@@ -79,6 +79,8 @@ https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="DW.lat" tvg-chno="44",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="France24.lat" tvg-chno="45",France24 Español
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50",Movistar Deportes
 http://179.43.82.250:8000/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51",GolPeru
