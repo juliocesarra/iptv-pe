@@ -323,7 +323,7 @@ http://tv.nousiptv.com:8080/8820/008820/1155808
 http://tv.nousiptv.com:8080/8820/008820/4099
 #EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-name="LA: Studio Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Studio_Universal_2016.png" group-title="Cine",Studio Universal
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/acc30152-a598-44af-be09-7ee4200fbc62.m3u
-#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="LA: Cinecanal tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34992
 #EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011_(Yellow).png" group-title="Cine",Cinemax
 http://45.179.164.30:8000/play/a0ai/index.m3u8
