@@ -4,11 +4,11 @@ https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3",Willax TV
-http://179.43.82.250:8000/play/a01w/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304311
 #EXTINF:-1 tvg-id="America.pe" tvg-chno="4",America
-http://179.43.82.250:8000/play/a01z/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304291
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5",Panamericana
-http://179.43.82.250:8000/play/a020/index.m3u8
+https://cdnh74.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7",TVPeru
@@ -35,42 +35,42 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-chno="18",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="Tastemade.wl" tvg-chno="19",Tastemade en Español
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-chno="19",Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-chno="20",AXN
-http://179.43.82.250:8000/play/a029/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34941
 #EXTINF:-1 tvg-id="TNTSeries.lat" tvg-chno="21",TNT Series
-http://179.43.82.250:8000/play/a08k/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34962
 #EXTINF:-1 tvg-id="A&E.lat" tvg-chno="22",A&E
-http://179.43.82.250:8000/play/a01k/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34946
 #EXTINF:-1 tvg-id="H&H.lat" tvg-chno="23",H&H
-http://179.43.82.250:8000/play/a01x/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34814
 #EXTINF:-1 tvg-id="Lifetime.lat" tvg-chno="24",Lifetime
-http://179.43.82.250:8000/play/a00m/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35038
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-chno="25",Telemundo
-http://179.43.82.250:8000/play/a01q/index.m3u8
+http://tv.nousiptv.com:8080/8820/008820/43189
 #EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-chno="26",Canal Estrellas
 http://186.31.37.98:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-chno="27",TNT Novelas
-http://179.43.82.250:8000/play/a069/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313074
 #EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="28",RCN Novelas
-http://179.43.82.250:8000/play/a01r/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304262
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30",Discovery Kids
-http://179.43.82.250:8000/play/a00o/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302625
 #EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-chno="31",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-chno="32",Nickelodeon
-http://179.43.82.250:8000/play/a003/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34770
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-chno="33",Disney Channel
-http://179.43.82.250:8000/play/a019/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34759
 #EXTINF:-1 tvg-id="DisneyJr.lat" tvg-chno="35",Disney Jr
-http://179.43.82.250:8000/play/a05y/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34767
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-chno="36",Nick Jr
-http://179.43.82.250:8000/play/a02e/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34778
 #EXTINF:-1 tvg-id="Cartoonito.lat" tvg-chno="37",Cartoonito
-http://179.43.82.250:8000/play/a06q/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312753
 #EXTINF:-1 tvg-id="CNN.lat" tvg-chno="40",CNN Español
-http://179.43.82.250:8000/play/a00p/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312871
 #EXTINF:-1 tvg-id="Euronews.lat" tvg-chno="41",Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.lat" tvg-chno="42",RT en Español
@@ -82,25 +82,25 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="France24.lat" tvg-chno="45",France24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50",Movistar Deportes
-http://179.43.82.250:8000/play/a08o/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34743
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51",GolPeru
-http://179.43.82.250:8000/play/a07y/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34744
 #EXTINF:-1 tvg-id="GolTV.lat" tvg-chno="52",Gol TV
-http://179.43.82.250:8000/play/a08f/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304391
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53",ESPN
-http://179.43.82.250:8000/play/a01g/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312831
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-chno="54",ESPN 2
-http://179.43.82.250:8000/play/a01f/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312834
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-chno="55",ESPN 3
-http://179.43.82.250:8000/play/a02h/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34665
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-chno="56",ESPN 4
-http://179.43.82.250:8000/play/a022/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312838
 #EXTINF:-1 tvg-id="FoxSports2.lat" tvg-chno="57",Fox Sports 2
-http://179.43.82.250:8000/play/a01o/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34633
 #EXTINF:-1 tvg-id="FoxSports3.lat" tvg-chno="58",Fox Sports 3
-http://179.43.82.250:8000/play/a01p/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34636
 #EXTINF:-1 tvg-id="TyC.lat" tvg-chno="59",TyC
-http://179.43.82.250:8000/play/a01i/index.m3u8
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34688
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65",History Channel
 http://179.43.82.250:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="66",Nat Geo
