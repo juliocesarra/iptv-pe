@@ -1,169 +1,175 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Test.pe" tvg-chno="1",+ Canal Test
+#EXTINF:-1 tvg-id="Test.pe" tvg-chno="1" tvg-name="Canal Test" tvg-logo="",+ Canal Test
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2" tvg-name="Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-#EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3",Willax TV
+#EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3" tvg-name="Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png",Willax TV
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304311
-#EXTINF:-1 tvg-id="America.pe" tvg-chno="4",America
+#EXTINF:-1 tvg-id="America.pe" tvg-chno="4" tvg-name="America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png",America
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304291
-#EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5",Panamericana
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5" tvg-name="Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png",Panamericana
 https://cdnh74.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6",Exitosa TV
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6" tvg-name="Exitosa TV" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7",TVPeru
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7" tvg-name="TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",TVPeru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-chno="8",Cultura 24 TV
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-chno="8" tvg-name="Cultura 24 TV" tvg-logo="https://www.cultura24.tv/sites/default/files/inline-images/logo.png",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-chno="9",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-chno="9" tvg-name="ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png",ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-chno="10",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-chno="10" tvg-name="Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="TVPeNoticias.pe" tvg-chno="11",TVPe Noticias
+#EXTINF:-1 tvg-id="TVPeNoticias.pe" tvg-chno="11" tvg-name="TVPe Noticias" tvg-logo="",TVPe Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
-#EXTINF:-1 tvg-id="TVPeInternacional.pe" tvg-chno="12",TVPe Internacional
+#EXTINF:-1 tvg-id="TVPeInternacional.pe" tvg-chno="12" tvg-name="TVPe Internacional" tvg-logo="",TVPe Internacional
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
-#EXTINF:-1 tvg-id="ATV+.pe" tvg-chno="13",ATV +
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-chno="13" tvg-name="ATV +" tvg-logo="",ATV +
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-chno="14",ATV Sur
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-chno="14" tvg-name="ATV Sur" tvg-logo="",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Global.pe" tvg-chno="15",Global
+#EXTINF:-1 tvg-id="Global.pe" tvg-chno="15" tvg-name="Global TV" tvg-logo="",Global TV
 http://179.43.82.250:8000/play/a08v/index.m3u8
-#EXTINF:-1 tvg-id="Karibeña.pe" tvg-chno="16",Karibeña TV
+#EXTINF:-1 tvg-id="Karibeña.pe" tvg-chno="16" tvg-name="Karibeña TV" tvg-logo="",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-#EXTINF:-1 tvg-id="BestSports.pe" tvg-chno="17",BestCable Sports
+#EXTINF:-1 tvg-id="BestSports.pe" tvg-chno="17" tvg-name="BestCable Sports" tvg-logo="",BestCable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-chno="18",Via Altomayo
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-chno="18" tvg-name="Via Altomayo" tvg-logo="",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-chno="19",Antares TV
+#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-chno="19" tvg-name="Antares TV" tvg-logo="",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.lat" tvg-chno="20",AXN
+#EXTINF:-1 tvg-id="AXN.lat" tvg-chno="20" tvg-name="AXN" tvg-logo="",AXN
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34941
-#EXTINF:-1 tvg-id="TNTSeries.lat" tvg-chno="21",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.lat" tvg-chno="21" tvg-name="TNT Series" tvg-logo="",TNT Series
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34962
-#EXTINF:-1 tvg-id="A&E.lat" tvg-chno="22",A&E
+#EXTINF:-1 tvg-id="A&E.lat" tvg-chno="22" tvg-name="A&E" tvg-logo="",A&E
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34946
-#EXTINF:-1 tvg-id="H&H.lat" tvg-chno="23",H&H
+#EXTINF:-1 tvg-id="H&H.lat" tvg-chno="23" tvg-name="H&H" tvg-logo="",H&H
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34814
-#EXTINF:-1 tvg-id="Lifetime.lat" tvg-chno="24",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.lat" tvg-chno="24" tvg-name="Lifetime" tvg-logo="",Lifetime
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35038
-#EXTINF:-1 tvg-id="Telemundo.lat" tvg-chno="25",Telemundo
+#EXTINF:-1 tvg-id="Telemundo.lat" tvg-chno="25" tvg-name="Telemundo" tvg-logo="",Telemundo
 http://tv.nousiptv.com:8080/8820/008820/43189
-#EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-chno="26",Canal Estrellas
+#EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-chno="26" tvg-name="Canal Estrellas" tvg-logo="",Canal Estrellas
 http://186.31.37.98:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-chno="27",TNT Novelas
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313074
-#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="28",RCN Novelas
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304262
-#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30",Discovery Kids
+#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-chno="27" tvg-name="TNT Novelas" tvg-logo="",TNT Novelas
+http://186.31.37.98:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.lat" tvg-chno="28" tvg-name="RCN Novelas" tvg-logo="",RCN Novelas
+http://186.31.37.98:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30" tvg-name="Discovery Kids" tvg-logo="",Discovery Kids
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/302625
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-chno="31",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-chno="31" tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-chno="32",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-chno="32" tvg-name="Nickelodeon" tvg-logo="",Nickelodeon
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34770
-#EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-chno="33",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-chno="33" tvg-name="Disney Channel" tvg-logo="",Disney Channel
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34759
-#EXTINF:-1 tvg-id="DisneyJr.lat" tvg-chno="35",Disney Jr
+#EXTINF:-1 tvg-id="DisneyJr.lat" tvg-chno="35" tvg-name="Disney Jr" tvg-logo="",Disney Jr
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34767
-#EXTINF:-1 tvg-id="NickJr.lat" tvg-chno="36",Nick Jr
+#EXTINF:-1 tvg-id="NickJr.lat" tvg-chno="36" tvg-name="Nick Jr" tvg-logo="",Nick Jr
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34778
-#EXTINF:-1 tvg-id="Cartoonito.lat" tvg-chno="37",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.lat" tvg-chno="37" tvg-name="Cartoonito" tvg-logo="",Cartoonito
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312753
-#EXTINF:-1 tvg-id="CNN.lat" tvg-chno="40",CNN Español
+#EXTINF:-1 tvg-id="CNN.lat" tvg-chno="40" tvg-name="CNN Español" tvg-logo="",CNN Español
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312871
-#EXTINF:-1 tvg-id="Euronews.lat" tvg-chno="41",Euronews Español
+#EXTINF:-1 tvg-id="Euronews.lat" tvg-chno="41" tvg-name="Euronews Español" tvg-logo="",Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RT.lat" tvg-chno="42",RT en Español
+#EXTINF:-1 tvg-id="RT.lat" tvg-chno="42" tvg-name="RT en Español" tvg-logo="",RT en Español
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1 tvg-id="CGTN.lat" tvg-chno="43",CGTN Español
+#EXTINF:-1 tvg-id="CGTN.lat" tvg-chno="43" tvg-name="CGTN Español" tvg-logo="",CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="DW.lat" tvg-chno="44",DW Español
+#EXTINF:-1 tvg-id="DW.lat" tvg-chno="44" tvg-name="DW Español" tvg-logo="",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="France24.lat" tvg-chno="45",France24 Español
-https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50",Movistar Deportes
+#EXTINF:-1 tvg-id="France24.lat" tvg-chno="45" tvg-name="France24 Español" tvg-logo="",France24 Español
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690495500/ei/rJXCZNTZFaGa1PIP15Gy6Ac/ip/3.125.183.140/id/XDJPzMznAjU.3/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr6---sn-uqx2-aphee.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq0Zvscux7hA6HClgHS8sQSNbgNaHpICFOIz3BQ/vprv/1/playlist_type/DVR/initcwndbps/707500/mh/F9/mip/200.60.41.130/mm/44/mn/sn-uqx2-aphee/ms/lva/mv/m/mvi/6/pcm2cms/yes/pl/23/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000013,51000023/beids/24350018/mt/1690473898/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhALv92-1G5JchgdalS8r1WolDnHyXGqCi1EkJBxnpndMpAiEApj_ectSBybzlz5dM1gBFKh_o4hsw7z2bebE_eQX9_Ps%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhANDDThEcRiLEJUlmmCuxNkw5BGjnLCZ6VM2L1CxnA8FFAiEA4PFHKEtF_WHHqUk3vOhtkQrTpqtpM9-GNGmJZ5qUsr8%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50" tvg-name="Movistar Deportes" tvg-logo="",Movistar Deportes
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34743
-#EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51",GolPeru
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51" tvg-name="GolPeru" tvg-logo="",GolPeru
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34744
-#EXTINF:-1 tvg-id="GolTV.lat" tvg-chno="52",Gol TV
+#EXTINF:-1 tvg-id="GolTV.lat" tvg-chno="52" tvg-name="Gol TV" tvg-logo="",Gol TV
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304391
-#EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53",ESPN
+#EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53" tvg-name="ESPN" tvg-logo="",ESPN
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312831
-#EXTINF:-1 tvg-id="ESPN2.lat" tvg-chno="54",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.lat" tvg-chno="54" tvg-name="ESPN 2" tvg-logo="",ESPN 2
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312834
-#EXTINF:-1 tvg-id="ESPN3.lat" tvg-chno="55",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.lat" tvg-chno="55" tvg-name="ESPN 3" tvg-logo="",ESPN 3
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34665
-#EXTINF:-1 tvg-id="ESPN4.lat" tvg-chno="56",ESPN 4
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312838
-#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-chno="57",Fox Sports 2
+#EXTINF:-1 tvg-id="ESPN4.lat" tvg-chno="56" tvg-name="ESPN 4" tvg-logo="",ESPN 4
+http://186.31.37.98:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-chno="57" tvg-name="Fox Sports 2" tvg-logo="",Fox Sports 2
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34633
-#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-chno="58",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-chno="58" tvg-name="Fox Sports 3" tvg-logo="",Fox Sports 3
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34636
-#EXTINF:-1 tvg-id="TyC.lat" tvg-chno="59",TyC
+#EXTINF:-1 tvg-id="TyC.lat" tvg-chno="59" tvg-name="TyC Sports" tvg-logo="",TyC Sports
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34688
-#EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65",History Channel
-http://179.43.82.250:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="66",Nat Geo
-http://179.43.82.250:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-chno="67",Animal Planet
-http://179.43.82.250:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-chno="68",Discovery Channel
-http://186.31.37.98:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-chno="69",Investigation Discovery
-http://179.43.82.250:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-chno="70",NASA TV Public
+#EXTINF:-1 tvg-id="DirectvSports.lat" tvg-chno="60" tvg-name="Directv Sports" tvg-logo="",Directv Sports
+http://tv.nousiptv.com:8080/8820/008820/33512
+#EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65" tvg-name="History Channel" tvg-logo="",History Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34831
+#EXTINF:-1 tvg-id="History2.lat" tvg-chno="66" tvg-name="History 2" tvg-logo="",History 2
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312817
+#EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="67" tvg-name="National Geographic" tvg-logo="",National Geographic
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34846
+#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-chno="68" tvg-name="Animal Planet" tvg-logo="",Animal Planet
+http://186.31.37.98:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-chno="69" tvg-name="Discovery Channel" tvg-logo="",Discovery Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34808
+#EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-chno="70" tvg-name="Investigation Discovery" tvg-logo="",Investigation Discovery
+http://186.31.37.98:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-chno="71" tvg-name="NASA TV Public" tvg-logo="",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-chno="71",NASA TV Media
+#EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-chno="72" tvg-name="NASA TV Media" tvg-logo="",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="Paramount.lat" tvg-chno="74",Paramount Channel
+#EXTINF:-1 tvg-id="Paramount.lat" tvg-chno="74" tvg-name="Paramount Channel" tvg-logo="",Paramount Channel
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34982
-#EXTINF:-1 tvg-id="StarChannel.lat" tvg-chno="75",Star Channel
-http://179.43.82.250:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="TNT.lat" tvg-chno="76",TNT
-http://179.43.82.250:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="Warner.lat" tvg-chno="77",Warner
-http://179.43.82.250:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="Space.lat" tvg-chno="78",Space
-http://179.43.82.250:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-chno="79",Studio Universal
-http://179.43.82.250:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-chno="80",Cinecanal
-http://179.43.82.250:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.lat" tvg-chno="81",Cinemax
-http://179.43.82.250:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="FX.lat" tvg-chno="82",FX
-http://179.43.82.250:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="Sony.lat" tvg-chno="83",Sony
-http://179.43.82.250:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="SyFy.lat" tvg-chno="84",SyFy
-http://179.43.82.250:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="TCM.lat" tvg-chno="85",TCM
-http://179.43.82.250:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="HBO.lat" tvg-chno="86",HBO
-http://179.43.82.250:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.lat" tvg-chno="87",HBO 2
-http://179.43.82.250:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.lat" tvg-chno="88",HBO Family
-http://179.43.82.250:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-chno="89",HBO Plus
-http://179.43.82.250:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-chno="90",HBO Xtreme
-http://179.43.82.250:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="I-Sat.lat" tvg-chno="91",I-Sat
-http://179.43.82.250:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Universal.lat" tvg-chno="92",Universal
-http://179.43.82.250:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="UniversalCinema.lat" tvg-chno="93",Universal Cinema
-http://179.43.82.250:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="UniversalComedy.lat" tvg-chno="94",Universal Comedy
-http://179.43.82.250:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiere.lat" tvg-chno="95",Universal Premiere
-http://179.43.82.250:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="Entertainment.lat" tvg-chno="101",E! Entertainment
-http://179.43.82.250:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="102",Zona Latina
-http://179.43.82.250:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="RedBull.world" tvg-chno="110",RedBull TV
+#EXTINF:-1 tvg-id="StarChannel.lat" tvg-chno="75" tvg-name="Star Channel" tvg-logo="",Star Channel
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34926
+#EXTINF:-1 tvg-id="TNT.lat" tvg-chno="76" tvg-name="TNT" tvg-logo="",TNT
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34957
+#EXTINF:-1 tvg-id="Warner.lat" tvg-chno="77" tvg-name="Warner" tvg-logo="",Warner
+http://186.31.37.98:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="Space.lat" tvg-chno="78" tvg-name="Space" tvg-logo="",Space
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313070
+#EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-chno="79" tvg-name="Studio Universal" tvg-logo="",Studio Universal
+http://186.31.37.98:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.lat" tvg-chno="80" tvg-name="Cinecanal" tvg-logo="",Cinecanal
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34992
+#EXTINF:-1 tvg-id="Cinemax.lat" tvg-chno="81" tvg-name="Cinemax" tvg-logo="",Cinemax
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34997
+#EXTINF:-1 tvg-id="FX.lat" tvg-chno="82" tvg-name="FX" tvg-logo="",FX
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34975
+#EXTINF:-1 tvg-id="Sony.lat" tvg-chno="83" tvg-name="Sony" tvg-logo="",Sony
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34936
+#EXTINF:-1 tvg-id="SyFy.lat" tvg-chno="84" tvg-name="SyFy" tvg-logo="",SyFy
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313076
+#EXTINF:-1 tvg-id="TCM.lat" tvg-chno="85" tvg-name="TCM" tvg-logo="",TCM
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313088
+#EXTINF:-1 tvg-id="HBO.lat" tvg-chno="86" tvg-name="HBO" tvg-logo="",HBO
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313095
+#EXTINF:-1 tvg-id="HBO2.lat" tvg-chno="87" tvg-name="HBO 2" tvg-logo="",HBO 2
+http://186.31.37.98:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.lat" tvg-chno="88" tvg-name="HBO Family" tvg-logo="",HBO Family
+http://186.31.37.98:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-chno="89" tvg-name="HBO Plus" tvg-logo="",HBO Plus
+http://186.31.37.98:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-chno="90" tvg-name="HBO Xtreme" tvg-logo="",HBO Xtreme
+http://186.31.37.98:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="I-Sat.lat" tvg-chno="91" tvg-name="I-Sat" tvg-logo="",I-Sat
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/313072
+#EXTINF:-1 tvg-id="Universal.lat" tvg-chno="92" tvg-name="Universal" tvg-logo="",Universal
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34956
+#EXTINF:-1 tvg-id="UniversalCinema.lat" tvg-chno="93" tvg-name="Universal Cinema" tvg-logo="",Universal Cinema
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34869
+#EXTINF:-1 tvg-id="UniversalComedy.lat" tvg-chno="94" tvg-name="Universal Comedy" tvg-logo="",Universal Comedy
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34854
+#EXTINF:-1 tvg-id="UniversalPremiere.lat" tvg-chno="95" tvg-name="Universal Premiere" tvg-logo="",Universal Premiere
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34873
+#EXTINF:-1 tvg-id="Entertainment.lat" tvg-chno="101" tvg-name="E! Entertainment" tvg-logo="",E! Entertainment
+http://186.31.37.98:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="ZonaLatina.lat" tvg-chno="102" tvg-name="Zona Latina" tvg-logo="",Zona Latina
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/35012
+#EXTINF:-1 tvg-id="ZonaMusic.lat" tvg-chno="103" tvg-name="Zona Music" tvg-logo="",Zona Music
+http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/312756
+#EXTINF:-1 tvg-id="RedBull.world" tvg-chno="110" tvg-name="RedBull TV" tvg-logo="",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.lat" tvg-chno="120",Platzi TV
+#EXTINF:-1 tvg-id="PlatziTV.lat" tvg-chno="120" tvg-name="Platzi TV" tvg-logo="",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
