@@ -9,7 +9,7 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304311
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304291
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5" tvg-name="Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png",Panamericana
 https://cdnh74.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6" tvg-name="Exitosa TV" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",Exitosa TV
+#EXTINF:-1 tvg-id="Exitosa.pe" tvg-chno="6" tvg-name="Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7" tvg-name="TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",TVPeru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
