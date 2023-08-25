@@ -4,7 +4,7 @@ https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-chno="2" tvg-name="Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-chno="3" tvg-name="Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png",Willax TV
-http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304311
+http://tv.nousiptv.com:8080/8820/008820/1105664
 #EXTINF:-1 tvg-id="America.pe" tvg-chno="4" tvg-name="America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png",America
 http://tv.nousiptv.com:8080/8820/008820/1068850
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-chno="5" tvg-name="Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png",Panamericana
