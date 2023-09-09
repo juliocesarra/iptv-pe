@@ -153,7 +153,7 @@ http://38.43.140.97:8000/play/a03p/index.m3u8
 http://38.43.140.97:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://38.43.140.97:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011_(Yellow).png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://190.83.60.34:1414/play/a02f
 #EXTINF:-1 tvg-id="FX.lat" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
 http://190.83.60.34:1414/play/a035
@@ -189,9 +189,9 @@ http://51.222.249.193:8080/you22/Wp82cV3DsWW9/314046
 http://gafitvapp.win:8080/FAMILIA/ABCD1234/387699
 #EXTINF:-1 tvg-id="Entertainment.lat" tvg-name="LA: E! Entertainment" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp" group-title="Entretenimiento",E! Entertainment
 http://38.43.140.97:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="ZonaMusic1.lat"" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
+#EXTINF:-1 tvg-id="ZonaMusic1.lat" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
 http://191.97.55.241:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="ZonaMusic2.lat"" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
+#EXTINF:-1 tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
 http://38.43.140.97:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="RedBull.world" tvg-name="INT: RedBull TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RBTV_Logo_single_pix_hor_RGB.webp" group-title="Entretenimiento",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
