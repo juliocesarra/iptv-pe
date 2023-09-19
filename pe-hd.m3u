@@ -46,7 +46,7 @@ http://51.222.249.193:8080/you22/Wp82cV3DsWW9/322827
 #EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 http://191.97.55.241:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_H&H_2022.webp" group-title="Entretenimiento",H&H
-http://gafitvapp.win:8080/FAMILIA/ABCD1234/68527
+http://191.97.55.241:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
 http://51.222.249.193:8080/you22/Wp82cV3DsWW9/31115
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.png" group-title="Novelas",Telemundo Internacional
@@ -64,7 +64,7 @@ http://191.97.55.241:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
 http://191.97.55.241:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-name="LA: Disney Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Channel_2019.png" group-title="Infantil",Disney Channel
-http://190.83.60.34:1414/play/a023
+http://45.191.234.189:15082/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp" group-title="Infantil",Disney Jr
 http://38.43.140.97:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
@@ -92,7 +92,7 @@ http://gafitvapp.win:8080/FAMILIA/ABCD1234/310754
 #EXTINF:-1 tvg-id="GolTV.lat" tvg-name="LA: Gol TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/GolTVLatam-2008.webp" group-title="Deportes",Gol TV
 http://38.43.140.97:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
-http://tv.nousiptv.com:8080/8820/008820/1091366
+http://tv.nousiptv.com:8080/8820/008820/7863
 #EXTINF:-1 tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_plus_2022.webp" group-title="Deportes",Directv Sports +
 http://tv.nousiptv.com:8080/8820/008820/1091368
 #EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
@@ -100,25 +100,25 @@ http://tv.nousiptv.com:8080/8820/008820/32881
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
 http://38.43.140.97:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
-http://38.43.140.97:8000/play/a049/index.m3u8
+http://45.191.234.189:15082/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
-http://200.24.204.242:6020/play/a0e7/index.m3u8
+http://45.191.234.189:15082/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
 http://191.97.55.241:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 http://tv.nousiptv.com:8080/8820/008820/8330
 #EXTINF:-1 tvg-id="ESPNExtra.lat" tvg-name="LA: ESPN Extra" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Extra_2018.webp" group-title="Deportes",ESPN Extra
-http://190.83.60.34:1414/play/a03n
+http://45.191.234.189:15082/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_1_Logo.png" group-title="Deportes",Fox Sports 1
 http://38.43.140.97:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_Logo.png" group-title="Deportes",Fox Sports 2
 http://191.97.55.241:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FOXSports3LA.webp" group-title="Deportes",Fox Sports 3
-http://190.83.60.34:1414/play/a027
+http://45.191.234.189:15082/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
 http://38.43.140.97:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
-http://200.24.204.242:6020/play/a0e9/index.m3u8
+http://tv.nousiptv.com:8080/8820/008820/43633
 #EXTINF:-1 tvg-id="WinSports.lat" tvg-name="LA: Win Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp" group-title="Deportes",Win Sports
 http://38.43.140.97:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.lat" tvg-name="LA: Win Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp" group-title="Deportes",Win Sports +
@@ -136,7 +136,7 @@ http://38.43.140.97:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
 http://38.43.140.97:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
-http://200.24.204.242:6020/play/a09a/index.m3u8
+http://tv.nousiptv.com:8080/8820/008820/1156012
 #EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-name="INT: NASA TV Public" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-name="INT: NASA TV Media" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Media
@@ -154,9 +154,9 @@ http://38.43.140.97:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://38.43.140.97:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
-http://190.83.60.34:1414/play/a02f
+http://tv.nousiptv.com:8080/8820/008820/4110
 #EXTINF:-1 tvg-id="FX.lat" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
-http://190.83.60.34:1414/play/a035
+http://45.191.234.189:15082/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.lat" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
 http://38.43.140.97:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="Sony.lat" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
@@ -164,9 +164,9 @@ http://38.43.140.97:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="DHE.lat" tvg-name="LA: DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
 http://38.43.140.97:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="SyFy.lat" tvg-name="LA: SyFy" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Syfy_2017.png" group-title="Cine",SyFy
-http://200.24.204.242:6020/play/a0bq/index.m3u8
+http://187.188.232.236:1021/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="TCM.lat" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
-http://200.24.204.242:6020/play/a0b1/index.m3u8
+http://45.166.92.22:58001/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="HBO.lat" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
 http://38.43.140.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
