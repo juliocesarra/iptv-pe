@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Test.pe" tvg-name="Canal Test" tvg-logo="" group-title="",+ Canal Test
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
-http://191.97.55.241:8000/play/a044/index.m3u8
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
 http://191.97.55.241:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
@@ -84,7 +84,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="France24.lat" tvg-name="INT: France24 Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/France_24_2013.png" group-title="Noticias",France24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
-http://191.97.55.241:8000/play/a03x/index.m3u8
+http://38.43.140.97:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
 http://38.43.140.97:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
@@ -124,7 +124,7 @@ http://38.43.140.97:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.lat" tvg-name="LA: Win Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp" group-title="Deportes",Win Sports +
 http://38.43.140.97:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="AR: TVPublica Argentina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TVPublica.png" group-title="Deportes",TVPublica Argentina
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+https://live-ak2.vimeocdn.com/e978ed57-c523-4aac-9b64-73ed4f80b0d8/hls.m3u8?hdnts=exp%3D1700614935~acl%3D%252Fe978ed57-c523-4aac-9b64-73ed4f80b0d8%252Fhls.m3u8~hmac%3D5a034ac330767719b0c3f12b07965aaa6b899c8e1272534da99bbf458f5826cb
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
 http://38.43.140.97:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel2.lat" tvg-name="LA: History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png" group-title="Cultura",History 2
