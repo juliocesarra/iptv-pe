@@ -10,9 +10,9 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilte
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
-http://darg.site:2082/P23013871/Q3xHqbNc6VWA/460302
+https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
-http://darg.site:2082/P23013871/Q3xHqbNc6VWA/226189
+https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png" group-title="Peru",Agro TV
@@ -38,29 +38,29 @@ https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/172752.ts
 #EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/190659.ts
 #EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_H&H_2022.webp" group-title="Entretenimiento",H&H
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1080
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372642
 #EXTINF:-1 tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/26914
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372685
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.png" group-title="Novelas",Telemundo Internacional
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170344.ts
+http://138.59.177.34:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png" group-title="Novelas",Canal Estrellas
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/257009.ts
 #EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://190.90.154.73:8080/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="LA: Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1375
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372644
 #EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-name="LA: Cartoon Network" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
 http://190.90.154.73:8080/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1388
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170073.ts
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-name="LA: Disney Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Channel_2019.png" group-title="Infantil",Disney Channel
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/190703.ts
 #EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp" group-title="Infantil",Disney Jr
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1889
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372651
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1392
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170072.ts
 #EXTINF:-1 tvg-id="CNN.lat" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/26932
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372635
 #EXTINF:-1 tvg-id="Euronews.lat" tvg-name="INT: Euronews Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Euronews_2022.png" group-title="Noticias",Euronews Español
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.lat" tvg-name="INT: RT en Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RT_2010.png" group-title="Noticias",RT en Español
@@ -85,21 +85,29 @@ https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256897.ts
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256899.ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/241157.ts
-#EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/241177.ts
-#EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170116.ts
-#EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN 4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/241176.ts
+#EXTINF:-1 tvg-id="ESPN5.lat" tvg-name="LA: ESPN 5" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_5.png" group-title="Deportes",ESPN 5
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/181248.ts
+#EXTINF:-1 tvg-id="ESPN6.lat" tvg-name="LA: ESPN 6" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_6.png" group-title="Deportes",ESPN 6
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/330412.ts
+#EXTINF:-1 tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/392355
 #EXTINF:-1 tvg-id="ESPNExtra.lat" tvg-name="LA: ESPN Extra" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Extra_2018.webp" group-title="Deportes",ESPN Extra
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256912.ts
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256913.ts
+#EXTINF:-1 tvg-id="ESPNPremiumAR.lat" tvg-name="LA: ESPN Premium AR" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium AR
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/184462.ts
-#EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_1_Logo.png" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
 http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/141446
-#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_Logo.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/184456.ts
-#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FOXSports3LA.webp" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/184457.ts
 #EXTINF:-1 tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
 http://38.43.140.97:8000/play/a03q/index.m3u8
@@ -122,7 +130,7 @@ http://38.43.140.97:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
 http://38.43.140.97:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/177627
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372643
 #EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-name="INT: NASA TV Public" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-name="INT: NASA TV Media" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Media
@@ -152,7 +160,7 @@ http://38.43.140.97:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="SyFy.lat" tvg-name="LA: SyFy" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Syfy_2017.png" group-title="Cine",SyFy
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/169828.ts
 #EXTINF:-1 tvg-id="TCM.lat" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/26756
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/190775.ts
 #EXTINF:-1 tvg-id="HBO.lat" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
 http://38.43.140.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
@@ -160,19 +168,19 @@ http://38.43.140.97:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.lat" tvg-name="LA: HBO Family" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Family.png" group-title="Cine",HBO Family
 http://38.43.140.97:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.lat" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/1434
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372678
 #EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
 http://38.43.140.97:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="AMC.lat" tvg-name="LA: AMC" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AMC_2013.png" group-title="Cine",AMC
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/26931
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/389751
 #EXTINF:-1 tvg-id="Golden.lat" tvg-name="LA: Golden" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Golden_2020.webp" group-title="Cine",Golden
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/324374.ts
 #EXTINF:-1 tvg-id="Universal.lat" tvg-name="LA: Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
-http://38.43.140.97:8000/play/a01m/index.m3u8
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372716
 #EXTINF:-1 tvg-id="UniversalCinema.lat" tvg-name="LA: Universal Cinema" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Cinema_2021.webp" group-title="Cine",Universal Cinema
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/144835
+http://138.59.177.34:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Premiere_2021.webp" group-title="Cine",Universal Premiere
-http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/26737
+http://138.59.177.34:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="Entertainment.lat" tvg-name="LA: E! Entertainment" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp" group-title="Entretenimiento",E! Entertainment
 http://38.43.140.97:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ZonaMusic1.lat" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
