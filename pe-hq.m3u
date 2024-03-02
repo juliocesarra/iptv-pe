@@ -28,7 +28,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 #EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
-https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/antares-tv-peru.webp" group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
@@ -72,17 +72,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="France24.lat" tvg-name="INT: France24 Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/France_24_2013.png" group-title="Noticias",France24 Español
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256894.ts
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256895.ts
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256891.ts
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256886.ts
 #EXTINF:-1 tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256903.ts
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170111.ts
 #EXTINF:-1 tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_plus_2022.webp" group-title="Deportes",Directv Sports +
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256897.ts
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256898.ts
 #EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256899.ts
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170112.ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/241157.ts
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
@@ -92,16 +92,14 @@ https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/170116.ts
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN 4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/241176.ts
 #EXTINF:-1 tvg-id="ESPN5.lat" tvg-name="LA: ESPN 5" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_5.png" group-title="Deportes",ESPN 5
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/181248.ts
+https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256912.ts
 #EXTINF:-1 tvg-id="ESPN6.lat" tvg-name="LA: ESPN 6" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_6.png" group-title="Deportes",ESPN 6
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/330412.ts
 #EXTINF:-1 tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
 http://darg.site:2082/P23013871/Q3xHqbNc6VWA/392355
 #EXTINF:-1 tvg-id="ESPNExtra.lat" tvg-name="LA: ESPN Extra" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Extra_2018.webp" group-title="Deportes",ESPN Extra
-https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256912.ts
-#EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/256913.ts
-#EXTINF:-1 tvg-id="ESPNPremiumAR.lat" tvg-name="LA: ESPN Premium AR" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium AR
+#EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/184462.ts
 #EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
 http://tv.masterplaytv.club:8080/rivera01/2TT44YAXAX/141446
@@ -114,15 +112,15 @@ http://38.43.140.97:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
 https://tvfullprime.site:443/casaActiva123/MGSxthCsaNx3/184459.ts
 #EXTINF:-1 tvg-id="WinSports.lat" tvg-name="LA: Win Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp" group-title="Deportes",Win Sports
-http://38.43.140.97:8000/play/a03s/index.m3u8
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372720
 #EXTINF:-1 tvg-id="WinSportsPlus.lat" tvg-name="LA: Win Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/WinSports2022.webp" group-title="Deportes",Win Sports +
-http://38.43.140.97:8000/play/a01f/index.m3u8
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372721
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="AR: TVPublica Argentina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TVPublica.png" group-title="Deportes",TVPublica Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
 http://38.43.140.97:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel2.lat" tvg-name="LA: History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png" group-title="Cultura",History 2
-http://38.43.140.97:8000/play/a00i/index.m3u8
+http://darg.site:2082/P23013871/Q3xHqbNc6VWA/372683
 #EXTINF:-1 tvg-id="NatGeo.lat" tvg-name="LA: National Geographic" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp" group-title="Cultura",National Geographic
 http://38.43.140.97:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
