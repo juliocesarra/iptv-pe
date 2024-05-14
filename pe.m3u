@@ -12,84 +12,82 @@ https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-chno="7" tvg-name="TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png",TVPeru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="RppTV.pe" tvg-chno="8" tvg-name="RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RPP_TV_-_2017_logo.png/1200px-RPP_TV_-_2017_logo.png",RPP TV
-http://38.43.140.97:8000/play/a03g/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/142706.ts
 #EXTINF:-1 tvg-id="ATV.pe" tvg-chno="9" tvg-name="ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-chno="10" tvg-name="Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png",Agro TV
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/69288
 #EXTINF:-1 tvg-id="TVPeInternacional.pe" tvg-chno="11" tvg-name="TVPe Internacional" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png",TVPe Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-chno="13" tvg-name="ATV +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_plus_2018_2.png",ATV +
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-chno="18" tvg-name="Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-chno="20" tvg-name="AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png",AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.lat" tvg-chno="21" tvg-name="TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.png",TNT Series
-http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+http://181.78.73.221:8000/play/a0wm/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.lat" tvg-chno="21" tvg-name="TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png",TNT Novelas
+http://181.78.71.5:4890/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.lat" tvg-chno="25" tvg-name="Las Estrellas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png",Las Estrellas
-http://190.90.154.73:8080/play/a07z/index.m3u8
+http://181.78.73.221:8000/play/a15a/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-chno="27" tvg-name="Telemundo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.png",Telemundo
-http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+http://181.78.73.221:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-chno="30" tvg-name="Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png",Discovery Kids
-http://138.59.177.34:8000/play/a06a/index.m3u8
+http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-chno="33" tvg-name="Disney Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Channel_2019.png",Disney Channel
-http://177.234.230.226:8010/play/a02z/index.m3u8
+http://181.78.71.5:4890/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="CNN.lat" tvg-chno="40" tvg-name="CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png",CNN Español
-http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+http://181.78.71.5:4890/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="RT.lat" tvg-chno="41" tvg-name="RT en Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RT_2010.png",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="France24.lat" tvg-chno="42" tvg-name="France24 Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/France_24_2013.png",France24 Español
 https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50" tvg-name="Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png",Movistar Deportes
-http://190.90.154.73:8080/play/a00a/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133716.ts
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51" tvg-name="GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png",GolPeru
-http://190.90.154.73:8080/play/a086/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133714.ts
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-chno="52" tvg-name="Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png",Liga 1 MAX
-http://europass.site:8080/josecastro04/57fISyPTQ7/166152
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133710.ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53" tvg-name="ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png",ESPN
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+http://181.78.71.5:4890/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-chno="54" tvg-name="ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png",ESPN 2
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+http://181.78.71.5:4890/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-chno="55" tvg-name="ESPN 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp",ESPN 3
-http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+http://181.78.71.5:4890/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65" tvg-name="History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp",History Channel
-http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+http://181.78.71.5:4890/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="History2.lat" tvg-chno="66" tvg-name="History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png",History 2
-http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+http://190.0.241.181:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="NatGeo.lat" tvg-chno="67" tvg-name="National Geographic" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp",National Geographic
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+http://45.166.92.22:58001/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-chno="68" tvg-name="Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png",Animal Planet
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+http://181.78.71.5:4890/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-chno="69" tvg-name="Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png",Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+http://181.78.71.5:4890/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-chno="70" tvg-name="Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png",Investigation Discovery
-http://138.59.177.34:8000/play/a06g/index.m3u8
+http://181.78.71.5:4890/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.lat" tvg-chno="74" tvg-name="Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png",Star Channel
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+http://181.78.71.5:4890/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.lat" tvg-chno="75" tvg-name="Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png",Paramount Channel
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+http://181.78.73.221:8000/play/a14r/index.m3u8
 #EXTINF:-1 tvg-id="TNT.lat" tvg-chno="76" tvg-name="TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png",TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+http://181.78.73.221:8000/play/a10j/index.m3u8
 #EXTINF:-1 tvg-id="Warner.lat" tvg-chno="77" tvg-name="Warner" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp",Warner
-http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+http://181.78.71.5:4890/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="Space.lat" tvg-chno="78" tvg-name="Space" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Space_2008.png",Space
-http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+http://181.78.73.221:8000/play/a0wn/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-chno="79" tvg-name="Studio Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Studio_Universal_2016.png",Studio Universal
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+http://181.78.73.221:8000/play/a14s/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.lat" tvg-chno="80" tvg-name="Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png",Cinecanal
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+http://181.78.71.5:4890/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.lat" tvg-chno="81" tvg-name="Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png",Cinemax
-http://190.90.154.73:8080/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.lat" tvg-chno="82" tvg-name="Sony Movies" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png",Sony Movies
-http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+http://181.78.71.5:4890/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="HBO.lat" tvg-chno="86" tvg-name="HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png",HBO
-http://190.90.154.73:8080/play/a04e/index.m3u8
+http://181.78.71.5:4890/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-chno="87" tvg-name="HBO 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png",HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+http://45.166.92.22:58001/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="Sony.lat" tvg-chno="91" tvg-name="Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png",Sony
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+http://181.78.71.5:4890/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="Universal.lat" tvg-chno="92" tvg-name="Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png",Universal
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+http://181.78.71.5:4890/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="Telehit.lat" tvg-chno="101" tvg-name="Telehit Musica" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telehit_logo.png",Telehit Musica
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
