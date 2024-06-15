@@ -48,11 +48,11 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133714.ts
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-chno="52" tvg-name="Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png",Liga 1 MAX
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133710.ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53" tvg-name="ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png",ESPN
-http://181.78.71.5:4890/play/a03l/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106005.ts
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-chno="54" tvg-name="ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png",ESPN 2
-http://181.78.71.5:4890/play/a03k/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106008.ts
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-chno="55" tvg-name="ESPN 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp",ESPN 3
-http://181.78.71.5:4890/play/a031/index.m3u8
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106009.ts
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-chno="65" tvg-name="History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp",History Channel
 http://181.78.71.5:4890/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="History2.lat" tvg-chno="66" tvg-name="History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png",History 2
