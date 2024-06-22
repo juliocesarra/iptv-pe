@@ -75,18 +75,20 @@ http://gotv.vip:8880/jean50/jean50/249
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="France24.lat" tvg-name="INT: France24 Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/France_24_2013.png" group-title="Noticias",France24 Español
 https://marine2.miplay.cl/france24/playlist.m3u8
+#EXTINF:-1 tvg-id="CAPeru.pe" tvg-name="PE: Copa America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/logo-copa-america.png" group-title="Deportes",Copa America
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-LyyxUm22_Q7ppjpnuj5Z0/ts
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/155222.ts
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L7up1HxPfKZpcKT9jbETtrI/ts
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133713.ts
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133709.ts
 #EXTINF:-1 tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/155238.ts
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
 #EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/155240.ts
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
 #EXTINF:-1 tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_plus_2022.webp" group-title="Deportes",Directv Sports +
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/155242.ts
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-iV70F6FNQ3slio8p83kBM/ts
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
